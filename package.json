@@ -1,15 +1,23 @@
 {
-  "name": "npm",
+  "name": "angular2-es6-starterpack",
   "version": "1.0.0",
-  "description": "Personal site of Corey Sery",
+  "description": "Simple Starter pack for Angular2 + ES6 + Webpack",
   "main": "main.js",
   "keywords": [
-    "Angular",
+    "Angular2",
     "Javascript",
-    "Less"
+    "Less",
+    "ES6",
+    "ECMAScript2015",
+    "Webpack",
+    "Jasmine"
   ],
   "author": "Corey Sery",
   "license": "MIT",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/armadill-odyssey/Angular2-ES6-Starterpack"
+  },
   "dependencies": {
     "@angular/common": "^2.0.0-rc.4",
     "@angular/compiler": "^2.0.0-rc.4",
